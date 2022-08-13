@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drummonds
-- 👀 I’m interested in go and python
+- 👀 I’m interested in computerised double entry bookkeepng, go and python
 - 🌱 I’m currently learning go gui
 - 💞️ I’m looking to collaborate on tartans, geneology and the control problem
 - 📫 How to reach me ...
